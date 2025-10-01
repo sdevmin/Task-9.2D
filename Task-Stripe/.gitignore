@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+# Build folder and log file
+build/
+build.log
+=======
+# dependencies
+node_modules/
+
+# environment files
+.env
+
+# build outputs
+dist/
+>>>>>>> cf4f6f3 (Initial commit - Task 9.2D full app)
